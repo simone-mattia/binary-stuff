@@ -1,0 +1,3 @@
+- Tools for static analysis
+- Based on the Pratical Binary Analysis book by Dennis Andriesse
+- The goal is to create a data mining tool used to generate datasets for future projects with Machine Learning
