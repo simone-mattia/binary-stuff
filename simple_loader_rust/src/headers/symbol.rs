@@ -5,6 +5,6 @@ pub struct Symbol {
 }
 
 pub enum SymbolType {
-    UNKNOWN,
-    FUNCTION,
+    SymTypeUnk = 0,
+    SymTypeFunc = 1
 }
